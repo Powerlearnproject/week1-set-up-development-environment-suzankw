@@ -1,4 +1,5 @@
-#Dev_Setup
+#Dev_Setup#
+
 #Setup Development Environment
 
 #Assignment: Setting Up Your Developer Environment
@@ -30,6 +31,7 @@ Document Your Setup: Create a comprehensive document outlining the steps you've 
 Document detailing the setup process with step-by-step instructions and screenshots where necessary.
 A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
 A reflection on the challenges faced during setup and strategies employed to overcome them.
+
 #Submission: Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
 
 #Evaluation Criteria:**
