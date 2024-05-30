@@ -9,7 +9,8 @@ We're going to walk through setting up your developer environment. This will hel
 1. **Pick Your Operating System (OS)**
    - Choose an OS that suits your needs. Let's go with Windows 11 for this setup.
    - [Download and Install Windows 11](https://www.microsoft.com/software-download/windows11)
-
+   - [Watch how to Install](https://www.youtube.com/watch?v=xDHLM-FnwJQ)
+     
 2. **Install a Text Editor or Integrated Development Environment (IDE)**
    - You'll need a good text editor or IDE for writing code. Let's use Visual Studio Code (VS Code).
    - [Download and Install Visual Studio Code](https://code.visualstudio.com/Download)
